@@ -1,4 +1,4 @@
-# Modular JWT Authentication System - Project Description
+# Secure Login Service - Project Aim
 
 ## 1. Project Overview
 The project is a modular JWT Authentication System that provides authentication and user management services for client websites and apps. You will handle all the core functionalities (like token generation, user management, and email sending) yourself, without relying on third-party services for email, SMS, or social logins.
